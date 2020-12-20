@@ -176,7 +176,7 @@
           "description": "Order not paid yet",
           "user_id": 1,
           "status": "Not Paid",
-          "method": "Pay on Pickup",
+          "method": "",
           "created_at": "2020-12-18 19:40:05",
           "updated_at": "2020-12-19 21:57:08",
           "custom_fields": []
