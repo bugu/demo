@@ -164,7 +164,7 @@
         ],
         "order_status": {
           "id": 3,
-          "status": "Ready",
+          "status": "Aktif",
           "created_at": "2019-10-15 17:04:30",
           "updated_at": "2019-10-15 17:04:30",
           "custom_fields": []
